@@ -1,0 +1,17 @@
+../Core/Src/main.c:99:6:RV3028C7_Backup	32	static
+../Core/Src/main.c:108:6:RV3028C7_Reset	32	static
+../Core/Src/main.c:128:6:RV3028C7_Init	48	static
+../Core/Src/main.c:159:6:TimerA_Enable_interrupt	32	static
+../Core/Src/main.c:171:6:TimerA_Init	48	static
+../Core/Src/main.c:192:6:TimerB_Enable_interrupt	32	static
+../Core/Src/main.c:203:6:TimerB_Init	48	static
+../Core/Src/main.c:226:6:Bat_Mode	32	static
+../Core/Src/main.c:241:6:Go_To_Standby	8	static
+../Core/Src/main.c:258:6:Reset_PCF	32	static
+../Core/Src/main.c:267:6:chooseMode	16	static
+../Core/Src/main.c:300:5:main	24	static
+../Core/Src/main.c:441:6:SystemClock_Config	136	static
+../Core/Src/main.c:494:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:534:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:559:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:606:6:Error_Handler	8	static,ignoring_inline_asm

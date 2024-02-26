@@ -1,0 +1,11 @@
+../Core/Src/main.c:87:6:RV3028C7_Backup	1
+../Core/Src/main.c:95:6:RV3028C7_Reset	1
+../Core/Src/main.c:113:6:RV3028C7_Init	1
+../Core/Src/main.c:141:6:Enable_interrupt	1
+../Core/Src/main.c:153:6:TimerA_Init	1
+../Core/Src/main.c:173:6:Bat_Mode	1
+../Core/Src/main.c:186:6:Go_To_Standby	5
+../Core/Src/main.c:228:6:Clock_Devider	1
+../Core/Src/main.c:449:6:SystemClock_Config	4
+../Core/Src/main.c:311:5:main	8
+../Core/Src/main.c:638:6:Error_Handler	1

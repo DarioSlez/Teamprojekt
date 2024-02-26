@@ -1,0 +1,10 @@
+13:44:21 **** Incremental Build of configuration Debug for project Frequenz Test ****
+make -j4 all 
+arm-none-eabi-size   Frequenz\ Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6332	     20	   1572	   7924	   1ef4	Frequenz Test.elf
+Finished building: default.size.stdout
+ 
+
+13:44:21 Build Finished. 0 errors, 0 warnings. (took 357ms)
+

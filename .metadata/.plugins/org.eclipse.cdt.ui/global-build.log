@@ -1,0 +1,7 @@
+16:58:03 **** Build of configuration Debug for project Team_Projekt_Test ****
+make -j4 all 
+arm-none-eabi-size  Team_Projekt_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21588	    108	   2244	  23940	   5d84	Team_Projekt_Test.elf
+Finished building: default.size.stdout
+ 

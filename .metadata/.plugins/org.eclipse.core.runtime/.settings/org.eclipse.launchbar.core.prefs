@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Wakeup1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Frequenz Test Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Teamprojekt_Sensor Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Team_Projekt Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Team_Projekt Release,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Team_Projekt_Test Debug (1)
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Frequenz\ Test\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Frequenz\ Test\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Team_Projekt\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Team_Projekt\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Team_Projekt_Test\ Debug\ (1)/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Team_Projekt_Test\ Debug\ (1)/activeLaunchTarget=null\:---

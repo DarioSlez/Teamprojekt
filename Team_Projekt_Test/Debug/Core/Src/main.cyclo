@@ -1,0 +1,14 @@
+../Core/Src/main.c:134:6:RV3028C7_RTC	2
+../Core/Src/main.c:207:6:PCF_RTC	4
+../Core/Src/main.c:263:6:Go_To_Standby	2
+../Core/Src/main.c:284:6:Go_To_Stop	3
+../Core/Src/main.c:314:6:feuchtigkeit	5
+../Core/Src/main.c:336:6:Messung	2
+../Core/Src/main.c:366:6:chooseMode	6
+../Core/Src/main.c:407:5:main	1
+../Core/Src/main.c:459:6:SystemClock_Config	4
+../Core/Src/main.c:511:13:MX_ADC_Init	3
+../Core/Src/main.c:567:13:MX_I2C1_Init	4
+../Core/Src/main.c:615:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:650:13:MX_GPIO_Init	1
+../Core/Src/main.c:720:6:Error_Handler	1

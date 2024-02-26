@@ -1,0 +1,10 @@
+13:59:17 **** Incremental Build of configuration Debug for project Team_Projekt ****
+make -j4 all 
+arm-none-eabi-size   Team_Projekt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21380	    104	   2240	  23724	   5cac	Team_Projekt.elf
+Finished building: default.size.stdout
+ 
+
+13:59:18 Build Finished. 0 errors, 0 warnings. (took 1s.30ms)
+
